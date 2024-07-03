@@ -1,0 +1,4 @@
+{"message": "", "error": "'ChatRequest' object has no attribute 'content'", "timestamp": "2024-07-02T14:35:54.014559Z", "level": "ERROR"}
+{"message": "", "error": "'str' object has no attribute 'decode'", "timestamp": "2024-07-02T14:37:33.455612Z", "level": "ERROR"}
+{"message": "", "error": "'ChatRequest' object has no attribute 'query_params'", "timestamp": "2024-07-02T14:37:50.211142Z", "level": "ERROR"}
+{"message": "", "error": "name 'client' is not defined", "timestamp": "2024-07-02T14:38:06.199776Z", "level": "ERROR"}
